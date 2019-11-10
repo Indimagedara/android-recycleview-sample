@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">recycleview-sample</string>
+    <string name="update">Update</string>
+    <string name="userName">Username</string>
+    <string name="userStatus">User Status</string>
+
+</resources>
